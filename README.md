@@ -39,10 +39,4 @@ An incorrect modification to the `config.conf` file altered certain permissions,
 - Use version control to track changes to critical files like `config.conf`.
 - Regularly review permissions and access controls in Splunk to ensure they align with organizational policies.
 
-## Usage
-This repository is intended as a reference for Splunk administrators to troubleshoot and resolve configuration issues effectively.
 
----
-
-### Disclaimer
-Ensure any changes made to configuration files comply with your organization’s IT and security policies. This repository is for educational purposes only.
